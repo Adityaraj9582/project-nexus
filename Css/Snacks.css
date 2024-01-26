@@ -12,7 +12,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: url('Contact.jpg')no-repeat;
+    background: url('../Image/Snacks.jpg')no-repeat;
     background-size:cover;
     background-position: center;
     
@@ -209,6 +209,7 @@ header {
     font-weight: 500;
     margin: -15px 0 15px;
     display:flex;
+    flex-direction: column;
     justify-content: space-between;
 }
 
